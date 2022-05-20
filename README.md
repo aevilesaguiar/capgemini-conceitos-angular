@@ -11,3 +11,15 @@ Ele é muito usado para criar cenários de if/else, ou seja, se a condição ver
 
   
 ## Pipes
+
+As pipes do Angular, elas são uma maneira elegante de realizarmos transformações em nosso front-end. Com ela nos podemos criar funções ou filtros (como é chamado no inglês), que podem ser utilizadas em qualquer parte do template do nosso projeto. o pipe é como se fosse uma máscara.Decorador que marca uma classe como pipe e fornece metadados de configuração(|).
+
+
+## Serviços
+
+Um serviço Angular é um objeto sem estado e fornece algumas funções muito úteis. Essas funções podem ser chamadas de qualquer componente do Angular, como controladores, diretivas, etc. Isso ajuda a dividir o aplicativo da web em unidades lógicas pequenas e diferentes que podem ser reutilizadas.A ideia é que se coloque as ações do seu sistema em cada serviço. Nós temos um arquivo 
+
+
+## Referencias
+
+- https://angular.io/api
